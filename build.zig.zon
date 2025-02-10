@@ -11,8 +11,8 @@
     },
     .dependencies = .{
         .zpool = .{
-            .url = "https://github.com/zig-gamedev/zpool/archive/820e0e59dc415d9784004464a6cf52223fbce126.tar.gz",
-            .hash = "1220e600a92d73dc8c3b5303351dcc67352114c975e59ae55de11b637ec173e75455",
+            .url = "git+https://github.com/NTARelix/zpool#99a4770cf126128891fc1be38769ea0ad9d8ca1e",
+            .hash = "1220c0ea05dedb0f26daffb4de404c212805f0fbbd5039a0e9922d371967cbe170d0",
         },
         .system_sdk = .{
             .url = "https://github.com/zig-gamedev/system_sdk/archive/d1e724748d15cfcbf50c45ec7c7019688d45b16a.tar.gz",
